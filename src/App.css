@@ -126,6 +126,7 @@ body {
 	position: relative;
 }
 
+
 .user-message:after {
 	content: '';
 	position: absolute;
